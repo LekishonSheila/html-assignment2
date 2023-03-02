@@ -1,0 +1,41 @@
+.first{
+    background-position: 60%;
+    display: flex;
+    height: 200px;
+    width: 800px;
+    margin-top: 40px;
+    padding: 50px;
+}
+.pictures{
+    display: flex;
+    position: relative;
+}
+.gift{
+    background-color:#222224;
+    color:white
+
+}
+
+
+.footer{
+    background-color: #222224;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.container3{
+    display: flex;
+}
+.page{
+    display: flex;
+    width: 800px;
+    height: 600px;
+}
+
+
+
+
+
+    
+
