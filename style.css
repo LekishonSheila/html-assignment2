@@ -1,3 +1,38 @@
+.container{
+    display: inline;
+    /* gap: 40px; */
+    margin-left: 300px;
+}
+.heading{
+    
+    padding: 0%;
+}
+.second{
+    display: flex;
+   
+}
+.page1{
+    width: 40%;
+}
+.chair{
+    
+    width: 60%;
+    height: 400px;
+    background-color: gray;
+    background-size: cover;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+button{
+    background-color: black;
+    color: white;
+    padding: 3%;
+    margin-left: 100px;
+    border-radius: 10%;
+    margin: 10px,30px;
+}
 .first{
     background-position: 60%;
     display: flex;
@@ -8,7 +43,69 @@
 }
 .pictures{
     display: flex;
-    position: relative;
+    gap: 20px;
+}
+.Description{
+    display: flex;
+    height: 400px;
+    gap: 100px;
+    
+}
+.joy{
+    background-size: cover;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-image: url("white.avif");
+    background-color: gray;
+}
+.sheila{
+    background-size: cover;
+    width: 400px;
+    background-repeat: no-repeat;
+background-image: url("meeting.jpeg");
+}
+.container3{
+    display: flex;
+    height: 600px;
+}
+.container4{
+margin-left: 350px;
+}
+.chair{
+    margin-bottom: 20px;
+    height: 600px;
+    width: 500px;
+}
+#img4{
+    width: 600px;
+}
+#image3{
+    height: 600px;
+}
+.chair3{
+    height: 50%;
+}
+.chair4{
+    height: 50%;
+}
+.page{
+    display: flex;
+    width: 600px;
+    height: 500px;
+}
+.table{
+    display: flex;
+    height: 400px;
+}
+#page{
+    margin-left: 550px;
+    height: 400px;
+    width: 500px;
+}
+.mag{
+
+    margin-top: 100px;
+    padding: 10px;
 }
 .gift{
     background-color:#222224;
@@ -24,15 +121,6 @@
     justify-content: space-between;
     align-items: center;
 }
-.container3{
-    display: flex;
-}
-.page{
-    display: flex;
-    width: 800px;
-    height: 600px;
-}
-
 
 
 
